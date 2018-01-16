@@ -1,0 +1,59 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+
+.navbar-fixed-top {
+  margin-bottom: 19px;
+}
+.navbar {
+   margin-bottom: 0;
+   background-color: #f4511e !important;
+   z-index: 9999;
+   border: 0;
+   font-size: 12px !important;
+   line-height: 1.42857143 !important;
+   letter-spacing: 4px;
+   border-radius: 0;
+}
+
+.navbar li a, .navbar .navbar-brand {
+   color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+   color: #f4511e !important;
+   background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+   border-color: transparent;
+   color: #fff !important;
+}
+
+.navbar-brand {
+  font-family: 'Shrikhand', cursive;
+}
+
+.lead {
+  font-family: 'Righteous', cursive;
+  font-size: 30px !important;
+}
+
+.bg-blue {
+  background-color: blue !important;
+  color: white !important;
+}
+
+.bg-orange {
+  background-color: #f4511e !important;
+  color: white !important;
+}
+
+p {
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+td {
+  font-family: 'Barlow Condensed', sans-serif;
+}
